@@ -1,0 +1,70 @@
+.App, body, html {
+  text-align: center;
+  padding: 0 0 100px 0;
+  font-family: Helvetica;
+  background-color: #EEE;
+  height: 100%;
+  color: #333;
+}
+
+.App .btnSubmit {
+  background-color: #f05c4f;
+  color: #FFF;
+  font-family: Helvetica;
+  font-size: 13px;
+  margin: 100px 0 0 3px;
+  padding: 12px 20px;
+  border-radius: 2px;
+  border: none;
+  display: inline-block;
+  vertical-align: bottom;
+  outline-color: #CCC;
+}
+
+.App .TextField {
+  width: 250px;
+  height: 35px;
+  border: 1px solid #999;
+  border-radius: 2px;
+  font-size: 30px;
+  display: inline-block;
+  vertical-align: bottom;
+  margin: 100px 0 0 0;
+  outline-color: #CCC;
+}
+
+.App .offerText {
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.App .offerError {
+  color: #f05c4f;
+  font-size: 14px;
+}
+
+.App .offerUrl {
+  text-decoration: none;
+  color: #3A8FDA;
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+.App .logo {
+  background: url(https://www.tapresearch.com/assets/logos/horizontal-router-df95d1b0ff3f5f58584979f8a6ec46eb66cbae2496a6bda6c8f4408a9deecb9e.png);
+  width: 160px;
+  height: 50px;
+  margin: 0;
+  display: inline-block;
+  border: 0;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
